@@ -1,6 +1,5 @@
 # 📌 Introduction to Operating Systems
 
-![Operating System](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Operating_system_placement.svg/512px-Operating_system_placement.svg.png)
 
 ## 📖 What is an Operating System?
 An **Operating System (OS)** is system software that manages computer hardware and software resources and provides common services for computer programs. 
@@ -41,7 +40,6 @@ An **Operating System (OS)** is system software that manages computer hardware a
 
 ## ⚙️ Structure of an Operating System
 
-![OS Structure](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OS-structure.svg/800px-OS-structure.svg.png)
 
 ### 1. **Monolithic Kernel** 🏗️
    - The entire OS is one single program (e.g., Linux, UNIX).
